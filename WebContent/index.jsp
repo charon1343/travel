@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>여행정보</title>
+		<title>유럽 여행정보</title>
 			<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	
 <!-- ================ css================== -->
